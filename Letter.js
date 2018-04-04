@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 function Letter(letterValue, guessed) {
 
 	this.letterValue = letterValue;
@@ -20,4 +28,12 @@ function Letter(letterValue, guessed) {
 
 
 }
+
+var a = new Letter(a, false);
+var b = new Letter(b, false);
+var c = new Letter(c, false);
+
+
+
+
 
